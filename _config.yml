@@ -1,0 +1,23 @@
+name: alexmueller
+favicon: null
+layout_spectrum: 0.6376947835087776
+typography_spectrum: 0.759769692318514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2765376637689769
+  lightness: 0.8774449047632515
+  saturation: 0.9774939948692918
+  rhythmicContrast: 0.18389021954499185
+purpose: []
